@@ -1,1 +1,2 @@
 this new line of sample9.
+second line added in branch2.
