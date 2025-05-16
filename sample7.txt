@@ -1,1 +1,2 @@
 this is a first line in sample7.
+this is a second line.
